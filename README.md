@@ -94,10 +94,10 @@ replay and root cause analysis.
 
 | Service | Repository |
 |---|---|
-| API Gateway | [rideflow-api-gateway](https://github.com/rideflow-backend/rideflow-api-gateway) |
-| IAM Service | [rideflow-iam](https://github.com/rideflow-backend/rideflow-iam) |
-| Driver Service | [rideflow-driver](https://github.com/rideflow-backend/rideflow-driver) |
-| Geo Service | [rideflow-geo](https://github.com/rideflow-backend/rideflow-geo) |
-| Matching Service | [rideflow-matching](https://github.com/rideflow-backend/rideflow-matching) |
-| Trip Service | [rideflow-trip](https://github.com/rideflow-backend/rideflow-trip) |
-| Payment Service | [rideflow-payment](https://github.com/rideflow-backend/rideflow-payment) |
+| API Gateway | [rideflow-api-gateway](https://github.com/Rideflow-ride-sharing/Rideflow-apigateway) |
+| IAM Service | [rideflow-iam](https://github.com/Rideflow-ride-sharing/Rideflow-iamService) |
+| Driver Service | [rideflow-driver](https://github.com/Rideflow-ride-sharing/Rideflow-driverService) |
+| Geo Service | [rideflow-geo](https://github.com/Rideflow-ride-sharing/Rideflow-geoService) |
+| Matching Service | [rideflow-matching](https://github.com/Rideflow-ride-sharing/Rideflow-matchingService) |
+| Trip Service | [rideflow-trip](https://github.com/Rideflow-ride-sharing/Rideflow-tripService) |
+| Payment Service | [rideflow-payment](https://github.com/Rideflow-ride-sharing/Rideflow-paymentService) |
